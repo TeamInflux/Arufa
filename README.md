@@ -41,6 +41,15 @@ You need to request the hosting company you're using to add in Arufa as a server
 * __[24serv.pro](https://24serv.pro)__ 
 * __[ServerWays Hosting](https://serverwayshosting.com)__
 
+## Things to Note
+
+- There is no Fishing
+- The plugin API is incorrect
+- Still lots of bugs
+- Unstable
+- *We are working hard to fix this*
+
+
 ## Resources
 
 **Guides**
