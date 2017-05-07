@@ -1,7 +1,6 @@
 # ![Arufa](http://i.imgur.com/lRJl9gu.jpg)
 ![Status](https://img.shields.io/badge/stability-alpha-ff69b4.svg)<br>
-![GitHub contributors](https://img.shields.io/github/contributors/ArufaTeam/Arufa.svg)<br>
-![Owner](https://img.shields.io/badge/owner-AppleDevelops-green.svg)
+
 ## Information
 
 - This is alpha software, you will experience bugs and crashes. You can see our progress [here](https://github.com/ArufaTeam/Arufa/milestones)
@@ -26,7 +25,7 @@ CircleCI: Unknown<br>
 
 **Self-installation:**<br>
 To install Arufa you will neen to view our Wiki!
-Supported platforms: Linux, Windows, OS X, Raspberry Pi, and ODROID
+Supported platforms: Linux, Windows, OS X, Raspberry Pi, and ANDROID
 
 **Installation on a Hosting Company:**<br>
 You need to request the hosting company you're using to add in Arufa as a server JAR/PHAR. If they don't respond, or don't add it, then you can try the MCPE hosting providers listed as below that support Arufa as a version for their customers to download.
